@@ -2,8 +2,8 @@ package HomeWorkApp6;
 
 public abstract class  Animal {
 
-    protected int run;
-    protected int swim;
+    protected int  run;
+    protected int  swim;
 
     private static int countAnimal;
 
